@@ -46,7 +46,7 @@
        </style>
     </head>
     <body>
-        <div class="jumbotron text-center"><h1 style="color: white;">HK's Kitchen</h1></div>
+        <div class="jumbotron text-center"><h1 style="color: white;">Restaurant Menu</h1></div>
        
 
         <div class="cont">
